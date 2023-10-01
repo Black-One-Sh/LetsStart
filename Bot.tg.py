@@ -5,7 +5,7 @@ from PIL import Image, ImageEnhance, ImageFilter
 
 
 
-token = '6028087461:AAFCcJWzTsy3dSzqDLOcEKBKww-tDVlbAjM'
+token = 'Here is our token'
 
 bot = telebot.TeleBot(token)
 
