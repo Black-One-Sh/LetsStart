@@ -4,7 +4,7 @@ import json
 
 
 #bot_init
-bot = Bot(token="6028087461:AAFCcJWzTsy3dSzqDLOcEKBKww-tDVlbAjM")
+bot = Bot(token="Here is our token")
 dp = Dispatcher(bot)
 
 
